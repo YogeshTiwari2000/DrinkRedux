@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DrinkRedux/static/css/main.4e21c3c0.css",
-    "main.js": "/DrinkRedux/static/js/main.47533947.js",
+    "main.js": "/DrinkRedux/static/js/main.45cfd2b5.js",
     "static/media/logo.svg": "/DrinkRedux/static/media/logo.f43a2245f2e27c8b1b645f22293ac86d.svg",
     "index.html": "/DrinkRedux/index.html",
     "main.4e21c3c0.css.map": "/DrinkRedux/static/css/main.4e21c3c0.css.map",
-    "main.47533947.js.map": "/DrinkRedux/static/js/main.47533947.js.map"
+    "main.45cfd2b5.js.map": "/DrinkRedux/static/js/main.45cfd2b5.js.map"
   },
   "entrypoints": [
     "static/css/main.4e21c3c0.css",
-    "static/js/main.47533947.js"
+    "static/js/main.45cfd2b5.js"
   ]
 }
