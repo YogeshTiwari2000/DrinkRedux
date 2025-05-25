@@ -1,3 +1,1 @@
-In action : https://yogeshtiwari2000.github.io/cocktailsHai/
-
-Demo for RestrauntMenu : https://restrauntmenuhai.netlify.app/
+In action : https://yogeshtiwari2000.github.io/cocktailsHai/](https://yogeshtiwari2000.github.io/DrinkRedux/
