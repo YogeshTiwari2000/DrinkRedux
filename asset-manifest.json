@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cocktailsHai/static/css/main.4e21c3c0.css",
-    "main.js": "/cocktailsHai/static/js/main.88a8bd4e.js",
+    "main.js": "/cocktailsHai/static/js/main.f98fc12e.js",
     "static/media/logo.svg": "/cocktailsHai/static/media/logo.f43a2245f2e27c8b1b645f22293ac86d.svg",
     "index.html": "/cocktailsHai/index.html",
     "main.4e21c3c0.css.map": "/cocktailsHai/static/css/main.4e21c3c0.css.map",
-    "main.88a8bd4e.js.map": "/cocktailsHai/static/js/main.88a8bd4e.js.map"
+    "main.f98fc12e.js.map": "/cocktailsHai/static/js/main.f98fc12e.js.map"
   },
   "entrypoints": [
     "static/css/main.4e21c3c0.css",
-    "static/js/main.88a8bd4e.js"
+    "static/js/main.f98fc12e.js"
   ]
 }
